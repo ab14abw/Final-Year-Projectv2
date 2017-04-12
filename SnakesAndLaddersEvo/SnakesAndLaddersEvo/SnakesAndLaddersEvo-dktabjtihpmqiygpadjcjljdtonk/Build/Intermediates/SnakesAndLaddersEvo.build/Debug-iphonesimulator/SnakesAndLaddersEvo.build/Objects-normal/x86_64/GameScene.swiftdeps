@@ -1,0 +1,92 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "GameScene"
+provides-nominal:
+- "C19SnakesAndLaddersEvo9GameScene"
+provides-member:
+- ["C19SnakesAndLaddersEvo9GameScene", ""]
+provides-dynamic-lookup:
+- "didMoveToView"
+depends-top-level:
+- "SKView"
+- "GameScene"
+- "SKScene"
+depends-member:
+- ["Ps9AnyObject", "didMoveToView"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", ""]
+- ["Ps11CVarArgType", "didMoveToView"]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", ""]
+- ["Ps28CustomDebugStringConvertible", "didMoveToView"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- ["Ps23CustomStringConvertible", "didMoveToView"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "didMoveToView"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", ""]
+- ["C19SnakesAndLaddersEvo9GameScene", "SKView"]
+- ["C19SnakesAndLaddersEvo9GameScene", "deinit"]
+- ["C19SnakesAndLaddersEvo9GameScene", "didMoveToView"]
+- ["C19SnakesAndLaddersEvo9GameScene", "init"]
+- ["Ps8Hashable", "didMoveToView"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", ""]
+- ["PSo8NSCoding", "didMoveToView"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", ""]
+- ["PSo9NSCopying", "didMoveToView"]
+- ["PSo9NSCopying", "init"]
+- ["PSo9NSCopying", ""]
+- ["CSo8NSObject", "SKView"]
+- ["CSo8NSObject", "didMoveToView"]
+- ["CSo8NSObject", "init"]
+- ["PSo16NSObjectProtocol", "didMoveToView"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", ""]
+- ["CSo12SKEffectNode", "SKView"]
+- ["CSo12SKEffectNode", "didMoveToView"]
+- ["CSo12SKEffectNode", "init"]
+- ["CSo6SKNode", "SKView"]
+- ["CSo6SKNode", "didMoveToView"]
+- ["CSo6SKNode", "init"]
+- ["CSo7SKScene", "SKView"]
+- ["CSo7SKScene", "didMoveToView"]
+- ["CSo7SKScene", "init"]
+- ["CSo7SKScene", ""]
+- ["CSo11UIResponder", "SKView"]
+- ["CSo11UIResponder", "didMoveToView"]
+- ["CSo11UIResponder", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "C19SnakesAndLaddersEvo9GameScene"
+- "Ps8Hashable"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "CSo12SKEffectNode"
+- "CSo6SKNode"
+- "CSo7SKScene"
+- "CSo11UIResponder"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SpriteKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/GLKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/GameplayKit.swiftmodule"
+interface-hash: "e18fa20134c8a0d1671e9a59d9fe8b2e"

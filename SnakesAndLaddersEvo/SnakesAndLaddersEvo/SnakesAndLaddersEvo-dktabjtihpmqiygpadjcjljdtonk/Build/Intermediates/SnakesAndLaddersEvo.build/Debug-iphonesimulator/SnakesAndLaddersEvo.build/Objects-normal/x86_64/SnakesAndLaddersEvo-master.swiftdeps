@@ -1,0 +1,7 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "a0017b20c4b78c30d9e86a495be5ad8f"
+build_time: [545180851, 688227000]
+inputs:
+  "/Users/ab14abw/SnakesAndLaddersEvo/SnakesAndLaddersEvo/GameScene.swift": [545180382, 0]
+  "/Users/ab14abw/SnakesAndLaddersEvo/SnakesAndLaddersEvo/GameViewController.swift": [545178786, 0]
+  "/Users/ab14abw/SnakesAndLaddersEvo/SnakesAndLaddersEvo/AppDelegate.swift": [545178786, 0]
