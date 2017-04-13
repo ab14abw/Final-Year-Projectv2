@@ -13,12 +13,9 @@
 		C415147A1E9E8B6400282CDA /* Snake.png in Resources */ = {isa = PBXBuildFile; fileRef = C415146D1E9E8B6400282CDA /* Snake.png */; };
 		C415147B1E9E8B6400282CDA /* WoodLadder.png in Resources */ = {isa = PBXBuildFile; fileRef = C415146E1E9E8B6400282CDA /* WoodLadder.png */; };
 		C415147C1E9E8B6400282CDA /* playerblue.png in Resources */ = {isa = PBXBuildFile; fileRef = C415146F1E9E8B6400282CDA /* playerblue.png */; };
-		C415147D1E9E8B6400282CDA /* images.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = C41514701E9E8B6400282CDA /* images.jpeg */; };
 		C415147E1E9E8B6400282CDA /* jungle1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C41514711E9E8B6400282CDA /* jungle1.jpg */; };
 		C415147F1E9E8B6400282CDA /* lilac.png in Resources */ = {isa = PBXBuildFile; fileRef = C41514721E9E8B6400282CDA /* lilac.png */; };
 		C41514811E9E8B6400282CDA /* playerred.png in Resources */ = {isa = PBXBuildFile; fileRef = C41514741E9E8B6400282CDA /* playerred.png */; };
-		C41514821E9E8B6400282CDA /* snakes-ladders-giant-game.png in Resources */ = {isa = PBXBuildFile; fileRef = C41514751E9E8B6400282CDA /* snakes-ladders-giant-game.png */; };
-		C41514831E9E8B6400282CDA /* snakes_and_ladders_board.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C41514761E9E8B6400282CDA /* snakes_and_ladders_board.jpg */; };
 		C41514871E9E9DBD00282CDA /* snakes_and_ladders_boardv1.png in Resources */ = {isa = PBXBuildFile; fileRef = C41514861E9E9DBD00282CDA /* snakes_and_ladders_boardv1.png */; };
 		C41514891E9E9DE000282CDA /* board.png in Resources */ = {isa = PBXBuildFile; fileRef = C41514881E9E9DE000282CDA /* board.png */; };
 		C418700F1E9C3FA200890843 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C418700E1E9C3FA200890843 /* AppDelegate.swift */; };
@@ -30,6 +27,10 @@
 		C418701D1E9C3FA200890843 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C418701B1E9C3FA200890843 /* LaunchScreen.storyboard */; };
 		C41870281E9C3FA300890843 /* SnakesAndLaddersEvoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C41870271E9C3FA300890843 /* SnakesAndLaddersEvoTests.swift */; };
 		C41870331E9C3FA300890843 /* SnakesAndLaddersEvoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C41870321E9C3FA300890843 /* SnakesAndLaddersEvoUITests.swift */; };
+		C41DCC731E9EF6EB005CB0B7 /* ladder.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C41DCC6F1E9EF6EB005CB0B7 /* ladder.mp3 */; };
+		C41DCC741E9EF6EB005CB0B7 /* dice.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C41DCC701E9EF6EB005CB0B7 /* dice.mp3 */; };
+		C41DCC761E9EF6EB005CB0B7 /* forest.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C41DCC721E9EF6EB005CB0B7 /* forest.mp3 */; };
+		C41DCC781E9EFAAE005CB0B7 /* snake.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C41DCC771E9EFAAE005CB0B7 /* snake.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,12 +57,9 @@
 		C415146D1E9E8B6400282CDA /* Snake.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Snake.png; sourceTree = "<group>"; };
 		C415146E1E9E8B6400282CDA /* WoodLadder.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WoodLadder.png; sourceTree = "<group>"; };
 		C415146F1E9E8B6400282CDA /* playerblue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = playerblue.png; sourceTree = "<group>"; };
-		C41514701E9E8B6400282CDA /* images.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = images.jpeg; sourceTree = "<group>"; };
 		C41514711E9E8B6400282CDA /* jungle1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jungle1.jpg; sourceTree = "<group>"; };
 		C41514721E9E8B6400282CDA /* lilac.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lilac.png; sourceTree = "<group>"; };
 		C41514741E9E8B6400282CDA /* playerred.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = playerred.png; sourceTree = "<group>"; };
-		C41514751E9E8B6400282CDA /* snakes-ladders-giant-game.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "snakes-ladders-giant-game.png"; sourceTree = "<group>"; };
-		C41514761E9E8B6400282CDA /* snakes_and_ladders_board.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = snakes_and_ladders_board.jpg; sourceTree = "<group>"; };
 		C41514861E9E9DBD00282CDA /* snakes_and_ladders_boardv1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = snakes_and_ladders_boardv1.png; sourceTree = "<group>"; };
 		C41514881E9E9DE000282CDA /* board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = board.png; sourceTree = "<group>"; };
 		C418700B1E9C3FA200890843 /* SnakesAndLaddersEvo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SnakesAndLaddersEvo.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -79,6 +77,10 @@
 		C418702E1E9C3FA300890843 /* SnakesAndLaddersEvoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SnakesAndLaddersEvoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C41870321E9C3FA300890843 /* SnakesAndLaddersEvoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnakesAndLaddersEvoUITests.swift; sourceTree = "<group>"; };
 		C41870341E9C3FA300890843 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C41DCC6F1E9EF6EB005CB0B7 /* ladder.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ladder.mp3; sourceTree = "<group>"; };
+		C41DCC701E9EF6EB005CB0B7 /* dice.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dice.mp3; sourceTree = "<group>"; };
+		C41DCC721E9EF6EB005CB0B7 /* forest.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = forest.mp3; sourceTree = "<group>"; };
+		C41DCC771E9EFAAE005CB0B7 /* snake.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = snake.mp3; path = "../../sound assets/snake.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,12 +118,9 @@
 				C415146E1E9E8B6400282CDA /* WoodLadder.png */,
 				C41514881E9E9DE000282CDA /* board.png */,
 				C415146F1E9E8B6400282CDA /* playerblue.png */,
-				C41514701E9E8B6400282CDA /* images.jpeg */,
 				C41514711E9E8B6400282CDA /* jungle1.jpg */,
 				C41514721E9E8B6400282CDA /* lilac.png */,
 				C41514741E9E8B6400282CDA /* playerred.png */,
-				C41514751E9E8B6400282CDA /* snakes-ladders-giant-game.png */,
-				C41514761E9E8B6400282CDA /* snakes_and_ladders_board.jpg */,
 			);
 			path = "image asset1";
 			sourceTree = "<group>";
@@ -129,6 +128,7 @@
 		C41870021E9C3FA200890843 = {
 			isa = PBXGroup;
 			children = (
+				C41DCC6E1E9EF6EB005CB0B7 /* sound assets */,
 				C41514691E9E8B6400282CDA /* image asset1 */,
 				C418700D1E9C3FA200890843 /* SnakesAndLaddersEvo */,
 				C41870261E9C3FA300890843 /* SnakesAndLaddersEvoTests */,
@@ -179,6 +179,18 @@
 				C41870341E9C3FA300890843 /* Info.plist */,
 			);
 			path = SnakesAndLaddersEvoUITests;
+			sourceTree = "<group>";
+		};
+		C41DCC6E1E9EF6EB005CB0B7 /* sound assets */ = {
+			isa = PBXGroup;
+			children = (
+				C41DCC771E9EFAAE005CB0B7 /* snake.mp3 */,
+				C41DCC6F1E9EF6EB005CB0B7 /* ladder.mp3 */,
+				C41DCC701E9EF6EB005CB0B7 /* dice.mp3 */,
+				C41DCC721E9EF6EB005CB0B7 /* forest.mp3 */,
+			);
+			name = "sound assets";
+			path = "SnakesAndLaddersEvo/sound assets";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -293,16 +305,17 @@
 				C418701A1E9C3FA200890843 /* Assets.xcassets in Resources */,
 				C41514811E9E8B6400282CDA /* playerred.png in Resources */,
 				C41514871E9E9DBD00282CDA /* snakes_and_ladders_boardv1.png in Resources */,
+				C41DCC741E9EF6EB005CB0B7 /* dice.mp3 in Resources */,
 				C415147B1E9E8B6400282CDA /* WoodLadder.png in Resources */,
-				C41514821E9E8B6400282CDA /* snakes-ladders-giant-game.png in Resources */,
 				C41514781E9E8B6400282CDA /* PurpleLadder.png in Resources */,
 				C41514771E9E8B6400282CDA /* Dice_1-6.svg.png in Resources */,
-				C415147D1E9E8B6400282CDA /* images.jpeg in Resources */,
-				C41514831E9E8B6400282CDA /* snakes_and_ladders_board.jpg in Resources */,
 				C415147E1E9E8B6400282CDA /* jungle1.jpg in Resources */,
 				C41514791E9E8B6400282CDA /* RedLadder.png in Resources */,
+				C41DCC781E9EFAAE005CB0B7 /* snake.mp3 in Resources */,
+				C41DCC731E9EF6EB005CB0B7 /* ladder.mp3 in Resources */,
 				C415147A1E9E8B6400282CDA /* Snake.png in Resources */,
 				C41870181E9C3FA200890843 /* Main.storyboard in Resources */,
+				C41DCC761E9EF6EB005CB0B7 /* forest.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -31,7 +31,7 @@ class GameScene: SKScene {
     // Player Labels
     var playerLabel = SKLabelNode()
     var computerLabel = SKLabelNode()
-    var playerPositionLabel = SKLabelNode()
+    var PlayerPositionLabel = SKLabelNode()
     var computerPositionLabel = SKLabelNode()
     
     // Game Sounds
@@ -59,6 +59,7 @@ class GameScene: SKScene {
         /* Setup your scene here */
         self.backgroundColor = UIColor.blackColor()
         setupBoard()
+        setupSounds()
         
     }
     
@@ -71,5 +72,15 @@ class GameScene: SKScene {
         addChild(board)
         
     }
+    
+    
+    func setupSounds() {
+        diceSound = SKAction.playSoundFileNamed("dice.mp3", waitForCompletion: false)
+        snakeSound = SKAction.playSoundFileNamed("snake.mp3", waitForCompletion: false)
+        ladderSound = SKAction.playSoundFileNamed("ladder.mp3", waitForCompletion: false)
+        forestSound = SKAction.playSoundFileNamed("forest.mp3", waitForCompletion: false)
+        
+    }
+  
 }
 

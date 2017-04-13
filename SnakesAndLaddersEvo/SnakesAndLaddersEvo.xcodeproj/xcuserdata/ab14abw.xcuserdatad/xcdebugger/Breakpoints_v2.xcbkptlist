@@ -6,7 +6,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SnakesAndLaddersEvo/GameScene.swift"
@@ -15,6 +15,69 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "45"
             endingLineNumber = "45"
+            landmarkName = "GameScene"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SnakesAndLaddersEvo.GameScene.init (size : __C.CGSize) -&gt; SnakesAndLaddersEvo.GameScene"
+                  moduleName = "SnakesAndLaddersEvo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/ab14abw/SnakesAndLaddersEvo/SnakesAndLaddersEvo/GameScene.swift"
+                  timestampString = "513733234.922285"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "763">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SnakesAndLaddersEvo.GameScene.init () -&gt; SnakesAndLaddersEvo.GameScene"
+                  moduleName = "SnakesAndLaddersEvo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/ab14abw/SnakesAndLaddersEvo/SnakesAndLaddersEvo/GameScene.swift"
+                  timestampString = "513733234.922462"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "740">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SnakesAndLaddersEvo.GameScene.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;SnakesAndLaddersEvo.GameScene&gt;"
+                  moduleName = "SnakesAndLaddersEvo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/ab14abw/SnakesAndLaddersEvo/SnakesAndLaddersEvo/GameScene.swift"
+                  timestampString = "513733234.922562"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "756">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SnakesAndLaddersEvo/GameScene.swift"
+            timestampString = "513733233.813714"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
             landmarkName = "GameScene"
             landmarkType = "3">
          </BreakpointContent>
